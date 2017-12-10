@@ -1,12 +1,13 @@
-#Finding common, reputable sources of economic analysis
+# Finding common, reputable sources of economic analysis
 
 These scripts look for the most common web domains recommended
 in daily links by two popular economic blogs:
 Tyler Cowen's Marginal Revolution and Mark Thoma's Economist's View
 
-##Overview
+## Overview
 
-The scripts require a Bing web search API key.
+
+The scripts require a Bing web search API key.
 API.py contains a function for accessing the API.
 
 The scripts should be run in the following order:
